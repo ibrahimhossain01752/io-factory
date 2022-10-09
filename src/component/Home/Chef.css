@@ -1,0 +1,49 @@
+.banner-main{
+    background: url('./../../assets/image\ 2.png');
+    /* background-size: cover; */
+	background-position: center;
+   height:300px;
+}
+.banner-overlay{
+	background-color: rgba(0, 0, 0, 0.61);
+	padding: 20px ;
+}
+.banner-content h6{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+   
+}
+.first-image{
+    width:60px;
+    height:55px;
+    border-radius: 120px;
+}
+.fw{
+    font-size:12px;
+    margin-left: 15px;
+}
+.image3{
+    width:95px;
+    height:90px;
+   margin-left: 98px;
+    border-radius: 60px;
+    
+}
+.card3{
+    border-radius:5px;
+    background-color: white;
+}
+.card-title33{
+    color:black;
+}
+.card-text33{
+    color:black;
+    font-size:14px;
+}
+/* .mx-auto{
+    margin-left:60px;
+} */
+.images3{
+    margin-left:160px;
+}

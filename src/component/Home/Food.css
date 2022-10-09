@@ -1,0 +1,124 @@
+.card1{
+    width:65px;
+    height:60px;
+}
+.violet{
+    color:black;
+    color:white;
+    width:45px;
+    height:49px;
+    margin-left: 10px;
+    
+}
+/* .banner-overlay1{
+    background-image: url(./../../assets/Ellipse\ 2\ \(1\).png);
+   background-repeat: no-repeat;
+   align-items: center;
+   background-position: center;
+   height:55px;
+   
+   width:20;
+   border-radius: 60px;
+  
+} */
+.sec-cad{
+    margin-top:140px;
+}
+/* .foodbanner{
+    height:100%;
+    width:100%;
+} */
+
+/* .banner-overlay32{
+    background-image: url(./../../assets/4th\ Food\ Banner\ 3.png);
+    background-size: cover;
+   background-repeat: no-repeat;
+   align-items: center;
+   background-position: center;
+} */
+
+
+.banner-main11{
+    background: url('./../../assets/4th\ Food\ Banner\ 3.png');
+    background-size: cover;
+	background-position: center;
+}
+.banner-overlay33{
+	/* background-color: rgba(0, 0, 0, 0.61); */
+	padding: 50px 0;
+}
+.elipse1{
+    width:60px;
+    margin-bottom: 60px;
+    margin-left: 80px;
+}
+.vector7{
+    width:30px;
+    margin-left: -50px;
+    margin-top: -50px;
+    /* align-items: center; */
+    color:black;
+}
+.cad13{
+    margin-bottom:0px;
+}
+.vagetables{
+    margin-left: -100px;
+    margin-top: -50px;
+    color:black;
+    
+}
+
+.vage{
+    color:black;
+}
+.para1{
+    color:black;
+    font-size: 12px;
+    margin-left: -80px;
+    text-align:center;
+}
+.casd2{
+    margin-top: 245px;
+}
+
+.elipse2{
+    width:60px;
+    margin-bottom: 60px;
+    margin-left: 170px;
+}
+.vector7{
+    width:30px;
+    margin-left: -50px;
+    margin-top: -50px;
+    /* align-items: center; */
+    color:black;
+}
+.cad13{
+    margin-bottom:0px;
+}
+.vagetables1{
+    margin-left: 150px;
+    margin-top: -50px;
+    color:black;
+    
+}
+
+.vage{
+    color:black;
+}
+.para2{
+    color:black;
+    font-size: 12px;
+    margin-left: 60px;
+    text-align:center;
+}
+.casd2{
+    margin-top: 245px;
+}
+.para5{
+    color: #2B2B2B;
+}
+.margin{
+    margin-bottom: -90px;
+}
